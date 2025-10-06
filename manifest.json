@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Songsterr Warning Remover",
+    "version": "1.0",
+    "description": "Removes unwanted blur elements from songsterr.com.",
+    "permissions": [
+        "scripting",
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Remove blur elements"
+    },
+    "host_permissions": [
+        "https://www.songsterr.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.songsterr.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
