@@ -12,17 +12,19 @@ Removes unwanted blur, ads and warning elements from [songsterr.com](https://www
 
 1. **Download or Clone this repo**
 
-    [Download with this link](https://github.com/arthur-adriansens/songsterrWarningRemover/archive/refs/heads/main.zip), or clone with this command:
+    - [Download with this link](https://github.com/arthur-adriansens/songsterrWarningRemover/archive/refs/heads/main.zip), or clone with this command:
 
     ```sh
     git clone https://github.com/arthur-adriansens/songsterrWarningRemover.git
     ```
 
+    - Don't forget to **Extract the zip folder**!
+
 2. **Load into Chrome**
 
     - Go to `chrome://extensions`
     - Enable "Developer mode"
-    - Click "Load unpacked" and select the (zip) folder
+    - Click "Load unpacked" and select the _songsterrWarningRemover-main_ folder inside the extracted folder
 
 3. **Enjoy a cleaner Songsterr!**
 
