@@ -2,11 +2,6 @@
 
 Removes unwanted blur and warning elements from [Songsterr.com](https://www.songsterr.com) for a cleaner, distraction-free experience.
 
-## Todo
-
--   Make toggler button work
--   Custom icon based on enabled/disabled
-
 ## Features
 
 -   Instantly removes blur overlays and warning popups.
@@ -27,6 +22,13 @@ Removes unwanted blur and warning elements from [Songsterr.com](https://www.song
 
 3. **Click the extension icon**
     - Use the popup to enable/disable blur removal.
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
+Commercial use is **not allowed without written permission**.
+
+Zie [LICENSE](./LICENSE) voor meer details.
 
 ## Files
 

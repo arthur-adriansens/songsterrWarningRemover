@@ -14,6 +14,9 @@
     "host_permissions": [
         "https://www.songsterr.com/*"
     ],
+    "background": {
+        "service_worker": "background.js"
+    },
     "content_scripts": [
         {
             "matches": [
@@ -23,5 +26,10 @@
                 "content.js"
             ]
         }
-    ]
+    ],
+    "icons": {
+        "16": "icons/off.png",
+        "48": "icons/off.png",
+        "128": "icons/off.png"
+    }
 }
