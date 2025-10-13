@@ -41,7 +41,7 @@ Zie [LICENSE](./LICENSE) voor meer details.
 
 ## Screenshots
 
-> ![Popup Example](https://user-images.githubusercontent.com/placeholder/popup.png) > _Popup UI: Toggle blur remover_
+> ![Popup Example](icons/image.png) > _Popup UI: Toggle blur remover_
 
 ## License
 
