@@ -8,7 +8,7 @@ Removes unwanted blur and warning elements from [Songsterr.com](https://www.song
 -   Toggle the extension on/off from the popup.
 -   Works automatically and observes dynamic page changes.
 
-## Usage
+## Install
 
 1. **Clone this repo**
     ```sh
@@ -20,7 +20,7 @@ Removes unwanted blur and warning elements from [Songsterr.com](https://www.song
     - Enable "Developer mode"
     - Click "Load unpacked" and select this folder
 
-3. **Click the extension icon**
+3. **Optional: click the extension icon**
     - Use the popup to enable/disable blur removal.
 
 ## License
