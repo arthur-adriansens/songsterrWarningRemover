@@ -16,7 +16,7 @@ const observer = new MutationObserver(() => {
         if (document.querySelector('.C8325s a[href=""]')) {
             // Make pointer visible immidiately (avoid flikkering)
             const activePointers = document.querySelectorAll(".Cfl4ni[style]");
-            if (activePointers?.length > 0) activePointers[0].style.visibility = "visible";
+            if (activePointers?.length > 0) activePointers[activePointers.length - 1].style.visibility = "visible";
 
             // Hide popup and click continue button
             document.querySelector(".C8325s").style.display = "none";
