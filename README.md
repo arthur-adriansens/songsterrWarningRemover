@@ -1,26 +1,34 @@
 # Songsterr Warning Remover
 
-Removes unwanted blur and warning elements from [Songsterr.com](https://www.songsterr.com) for a cleaner, distraction-free experience.
+Removes unwanted blur, ads and warning elements from [songsterr.com](https://www.songsterr.com) for a cleaner, distraction-free experience.
 
 ## Features
 
--   Instantly removes blur overlays and warning popups.
+-   Instantly removes blur overlays, ads and warning popups.
 -   Toggle the extension on/off from the popup.
 -   Works automatically and observes dynamic page changes.
 
 ## Install
 
-1. **Clone this repo**
+1. **Download or Clone this repo**
+
+    [Download with this link](https://github.com/arthur-adriansens/songsterrWarningRemover/archive/refs/heads/main.zip), or clone with this command:
+
     ```sh
-    git clone https://github.com/yourusername/songsterrWarningRemover.git
+    git clone https://github.com/arthur-adriansens/songsterrWarningRemover.git
     ```
+
 2. **Load into Chrome**
 
     - Go to `chrome://extensions`
     - Enable "Developer mode"
-    - Click "Load unpacked" and select this folder
+    - Click "Load unpacked" and select the (zip) folder
 
-3. **Optional: click the extension icon**
+3. **Enjoy a cleaner Songsterr!**
+
+    Everything will work automatically when you view a tab on Songsterr!
+
+4. **Optional: click the extension icon**
     - Use the popup to enable/disable blur removal.
 
 ## License
