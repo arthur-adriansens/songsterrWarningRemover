@@ -30,22 +30,9 @@ Commercial use is **not allowed without written permission**.
 
 Zie [LICENSE](./LICENSE) voor meer details.
 
-## Files
-
-| File            | Purpose                                      |
-| --------------- | -------------------------------------------- |
-| `content.js`    | Removes blur/warning elements from Songsterr |
-| `popup.html`    | Popup UI for toggling the extension          |
-| `popup.js`      | Popup logic for enable/disable               |
-| `manifest.json` | Chrome extension manifest                    |
-
 ## Screenshots
 
 > ![Popup Example](icons/image.png) > _Popup UI: Toggle blur remover_
-
-## License
-
-MIT
 
 ---
 
