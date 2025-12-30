@@ -12,6 +12,12 @@ Enable [Songsterr](https://www.songsterr.com) premium features for free, no logi
 
 ## Install
 
+### New version, v2.*
+
+You can install the new version with Tampermonkey using this link: [https://greasyfork.org/en/scripts/560776-songsterr-free-premium](https://greasyfork.org/en/scripts/560776-songsterr-free-premium).
+
+### Older version, v1.*
+
 1. **Download or Clone this repo**
 
     - [Download with this link](https://github.com/arthur-adriansens/songsterrWarningRemover/archive/refs/heads/main.zip), or clone with this command:
