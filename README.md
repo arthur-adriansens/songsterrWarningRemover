@@ -1,12 +1,14 @@
 # Songsterr Warning Remover
 
-Removes unwanted blur, ads and warning elements from [songsterr.com](https://www.songsterr.com) for a cleaner, distraction-free experience.
+Enable [Songsterr](https://www.songsterr.com) premium features for free, no login required. Removes unwanted blur, ads and warning elements from [Songsterr](https://www.songsterr.com) for a cleaner, distraction-free experience.
 
 ## Features
 
 -   Instantly removes blur overlays, ads and warning popups.
 -   Toggle the extension on/off from the popup.
 -   Works automatically and observes dynamic page changes.
+-   Dynamic icon.
+-   NEW: the extension also unlocks all premium features now, except for PDF export.
 
 ## Install
 
